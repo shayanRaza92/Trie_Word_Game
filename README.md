@@ -52,5 +52,3 @@ Want to improve the UI or add new game modes?
 2.  Make your changes.
 3.  Submit a Pull Request!
 
----
-*Built by [Shayan Raza](https://github.com/shayanRaza92)*
