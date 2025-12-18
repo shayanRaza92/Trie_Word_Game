@@ -1,7 +1,5 @@
 # 🧠 Trie Word Game
 
-> **"Unleash your vocabulary against the clock!"**
-
 **Trie Word Game** is an engaging word puzzle built with **Python** and **Tkinter**. It demonstrates the power of the **Trie Data Structure** (Prefix Tree) for ultra-efficient word validation and prefix checking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
